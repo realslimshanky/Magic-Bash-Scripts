@@ -1,4 +1,7 @@
-# Magic Bash Scripts [![Build Status](https://travis-ci.org/realslimshanky/Magic-Bash-Scripts.svg?branch=master)](https://travis-ci.org/realslimshanky/Magic-Bash-Scripts)
+# Magic Bash Scripts 
+[![Build Status](https://travis-ci.org/realslimshanky/Magic-Bash-Scripts.svg?branch=master)](https://travis-ci.org/realslimshanky/Magic-Bash-Scripts)
+[![codecov](https://codecov.io/gh/realslimshanky/Magic-Bash-Scripts/branch/master/graph/badge.svg)](https://codecov.io/gh/realslimshanky/Magic-Bash-Scripts)
+
 This repository contains the code for scripts I created while playing with Bash.
 
 ### Index
